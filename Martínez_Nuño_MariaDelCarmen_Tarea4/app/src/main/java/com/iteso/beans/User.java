@@ -1,4 +1,8 @@
-package beans;
+package com.iteso.beans;
+
+/**
+ * Created by carmenmartineznuno on 10/10/17.
+ */
 
 import android.content.Context;
 import android.content.SharedPreferences;

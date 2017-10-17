@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="title_section1">Technology</string>
+    <string name="title_section2">Home</string>
+    <string name="title_section3">Electronics</string>
+    <string name="fragment_technology_text">Tech stuff goes here!</string>
+    <string name="fragment_home_text">Home stuff goes here!</string>
+    <string name="fragment_electronics_text">Electronics stuff goes here!</string>
+    <string name="action_settings">Settings</string>
+</resources>
